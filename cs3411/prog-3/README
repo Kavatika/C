@@ -1,0 +1,9 @@
+filename 				- normal 	- compressed
+k-sample.txt 			- 1KB		- 1.2KB
+m-sample.txt			- 977KB		- 1.2MB
+g-sample.txt 			- 954MB		- 1.2GB
+generator				- 8.5KB		- 6.7KB
+decode					- 13KB		- 11KB
+test.txt				- 168		- 145
+e-test.txt				- 145		- 194
+example dictionary.txt	- 622		- 482

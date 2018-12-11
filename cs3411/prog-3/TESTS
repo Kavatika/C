@@ -1,0 +1,7 @@
+I have run tests on the following types of files:
+text files of multiple sizes:
+	- three randomly generated ascii files of differing sizes (1KB, 1MB, 1GB) (because there are so few repeating characters, the 'compressed' file is actually larger)
+	- two binary files
+	- the test.txt file provided by Tino for a sample test case
+	- an output file for my encoding program
+	- the example dictionary provided to us by Tino
